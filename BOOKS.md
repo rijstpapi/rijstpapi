@@ -1,1 +1,1 @@
-- 1.  🐍 Learn Python in One Day and Learn It Well: Python for Beginners with Hands-on Project.
+- 🐍 Learn Python in One Day and Learn It Well: Python for Beginners with Hands-on Project.
